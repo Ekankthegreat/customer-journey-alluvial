@@ -10,7 +10,7 @@ The diagram shows how customers move from different channels (Social Media, Emai
 - Tool: RAWGraphs
 - Export: PNG (512x512 pixels)
 
-![Alluvial Diagram](chart1.png)
+![Alluvial Diagram](chart.png)
 
 ## Verification
 Email: 24f1001581@ds.study.iitm.ac.in
